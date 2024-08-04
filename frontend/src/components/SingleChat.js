@@ -17,7 +17,8 @@ import Lottie from 'react-lottie'
 import animationData from '../animations/typing.json';
 
 
-const ENDPOINT="http://localhost:5000";
+// const ENDPOINT="http://localhost:5000";
+const ENDPOINT="https://talkio-h0rj.onrender.com";
 let socket,selectedChatCompare;
       
 
